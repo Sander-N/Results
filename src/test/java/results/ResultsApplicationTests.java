@@ -1,4 +1,4 @@
-package com.sandern.results;
+package results;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
